@@ -1,0 +1,12 @@
+
+F1 = moveForward();
+F2 = turnLeft();
+F3 = turnAround();
+F4 = turnRight();
+F5 = pickBeeper();
+F6 = dropBeeper();
+F7 = onBeeper()
+F8 = beeperAhead()
+F9 = leftIsClear()
+F10 = frontIsClear()
+rightIsClear() - mein Rechner (MacBook) macht bei F11 das Fenster klein und groß

@@ -1,0 +1,12 @@
+void defuseOneBomb() {
+    moveOneWay();
+    pickBeeper();
+    moveOneWay();
+}
+
+void moveOneWay() {
+    repeat(9) {
+        moveForward();
+    }
+    turnAround();
+}

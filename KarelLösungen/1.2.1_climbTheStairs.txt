@@ -1,0 +1,13 @@
+void climbTheStairs() {
+    repeat(6) {
+        moveOneStair();
+    }
+    moveForward();
+}
+
+void moveOneStair() {
+    moveForward();
+    turnLeft();
+    moveForward();
+    turnRight();
+}

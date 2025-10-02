@@ -1,0 +1,17 @@
+void obtainArtifact() {
+    turnRight();
+    moveHalfRound();
+    pickBeeper();
+    moveHalfRound();
+    dropBeeper();
+}
+
+void moveHalfRound() {
+    moveForward();
+    turnLeft();
+    repeat(3) {
+        moveForward();
+    }
+    turnLeft();
+    moveForward();
+}
