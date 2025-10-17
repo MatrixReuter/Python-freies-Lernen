@@ -34,3 +34,5 @@ Rufe deine Funktion mit den Benutzereingaben auf.
 Gib das zurückgegebene Ergebnis mit einer erklärenden Nachricht aus.
 
 Tipp: Eine Zahl ist eine Primzahl, wenn sie nur durch 1 und sich selbst teilbar ist. Beispiele sind 2, 3 und 5
+
+Wichtig: Um zu beweisen, dass eine Zahl eine Primzahl ist, müssen alle möglichen Teiler ausgeschlossen werden. Beispiel 7: Hier muss überprüft werden, ob 2, 3, 4, 5 oder 6 die 7 restlos teilen können. - Wenn du an mathematische Regeln denkst, kannst du möglicherweise auch mit weniger Überprüfungen herausfinden, ob eine Zahl eine Primzahl ist oder nicht
