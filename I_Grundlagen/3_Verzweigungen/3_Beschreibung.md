@@ -30,6 +30,14 @@ else:
 
 Wichtig: Achte auf die Einrückung (Indentation)! Python nutzt wie vorher bereits erwähnt Einrückungen (typischerweise 4 Leerzeichen oder ein TAB) statt Klammern, um Codeblöcke zu definieren.
 
+Folgende Operatoren kannst du für vergleiche Nutzen:
+"==": gleich: ist Wahr, wenn der linke und der rechte Wert identisch sind
+"!=": ungleich: ist Wahr, wenn der linke und der rechte Wert nicht identisch sind
+"<": kleiner: ist Wahr, wenn der linke Wert kleiner ist, als der Rechte
+"<=" kleinergleich: ist Wahr, wenn der linke Wert kleiner oder genausogroß ist, wie der Rechte
+">": größer: ist Wahr, wenn der linke Wert größer ist, als der Rechte
+">=" größergleich: ist Wahr, wenn der linke Wert größer oder genausogroß ist, wie der Rechte
+
 ✍️ Aufgabe: Der einfache Altersprüfer
 
 Löse folgende Aufgabenstellung und nutze dafür die Datei 3_code.py:

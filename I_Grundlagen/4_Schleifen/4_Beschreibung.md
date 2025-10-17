@@ -10,7 +10,9 @@ Die Schlüsselwörter break und continue verstehen.
 
 Schleifen ermöglichen die Wiederholung von Anweisungen.
 
-while-Schleife: Wiederholt den Code, solange eine Bedingung True ist. Du musst sicherstellen, dass die Bedingung irgendwann False wird (ansonsten: Endlosschleife!).
+Bei Python gibt es while und for Schleifen. Wir stellen sie beide vor.
+
+Die while-Schleife: Wiederholt den Code, solange die Bedingung wahr (True) ist. Du musst sicherstellen, dass die Bedingung irgendwann False wird (ansonsten: Endlosschleife!).
 
 i = 0
 while i < 3:
