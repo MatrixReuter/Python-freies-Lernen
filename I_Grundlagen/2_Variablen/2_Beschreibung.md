@@ -34,3 +34,5 @@ Nutze input(), um den Benutzer zu Fragen, wie viele Kaugummies er kaufen möchte
 Wandle die Kaugummie-Eingabe in einen int-Wert um.
 Definiere einen Preis für die Kaugummies als float (z.B. 1.50).
 Berechne wie viel Geld der Benutzer bezahlen muss und wie viel Geld er nach dem Kauf noch hat.Gib den Gesamtpreis für die Kaugummies und das Restgeld des Benutzers aus.
+
+Tipp: Zum Addieren verwende ein "+", zum Subtrahieren ein "-", zum Multiplizieren ein "*" und zum Dividieren ein "/" 
